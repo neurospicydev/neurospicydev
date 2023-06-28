@@ -8,7 +8,7 @@ I am self taught and I have been passively learning how to code for a while. How
 
 * 🌱  I'm currently learning C Programming
 * 🤝  I'm open to collaborating on Open source projects that welcome newbies.
-* 📫  How to reach me[here](fullsnahkdeveloper@gmail.com)
+* 📫  How to reach me [here](fullsnahkdeveloper@gmail.com)
 
 <a href="https://www.twitter.com/neurospicydev" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/neurospicydev?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
