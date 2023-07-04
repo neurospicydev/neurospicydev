@@ -4,10 +4,10 @@ Hi👋, I’m Obiageli
 Software Engineer and Cyber Security Analyst
 --------------------------------------------
 
-I am self taught and I have been passively learning how to code for a while. However, I started actively coding a year ago and found passion in Backend Engineering, Cybersecurity and DevOps.
+I am self taught and I have been passively learning how to code for a while. However, I started actively programming a year ago and found great interest in Backend Engineering, Cybersecurity and DevOps.
 
 * 🌱  I'm currently learning C Programming
-* 🤝  I'm open to collaborating on Open source projects that welcome newbies.
+* 🤝  I'm open to collaborating on open source projects that welcome newbies.
 * 📫  You can reach me [here](fullsnahkdeveloper@gmail.com)
 
 <a href="https://www.twitter.com/neurospicydev" target="_blank" rel="noreferrer"><img
