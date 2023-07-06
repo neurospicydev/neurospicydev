@@ -1,7 +1,7 @@
 Hi👋, I’m Obiageli
 =========================
 
-Software Engineer and Technical Writer
+Software Engineer and Cyber Security Analyst
 --------------------------------------------
 
 I am self taught and I have been passively learning how to code for a while. However, I started actively programming a year ago and found great interest in Backend Engineering, Cybersecurity and DevOps.
