@@ -4,7 +4,7 @@ Hi👋, I’m Fortune
 DevOps Engineer
 --------------------------------------------
 
-I am self-taught and I have been passively learning how to code for a while. However, I started actively programming a year ago and found great interest in Backend Engineering, Cybersecurity and DevOps.
+I am self-taught and I have been passively learning how to code for a while. However, I have been actively programming for almost 3 years and found great interest in Backend Engineering, Networking, Cybersecurity and DevOps.
 
 * 🌱  I'm currently learning Kubernetes
 * 🤝  I'm open to collaborating on open-source software projects that welcome newbies.
