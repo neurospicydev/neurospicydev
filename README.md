@@ -22,7 +22,6 @@ src="https://img.shields.io/twitter/follow/neurospicydev?logo=twitter&style=for-
   <!-- Languages & Scripting -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
   <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bash-colored.svg" width="36" height="36" alt="Bash/Shell" /></a>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
   
   <!-- Frontend -->
@@ -38,15 +37,7 @@ src="https://img.shields.io/twitter/follow/neurospicydev?logo=twitter&style=for-
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
   
-  <!-- Infrastructure & Tools -->
-  <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ubuntu-colored.svg" width="36" height="36" alt="Ubuntu" /></a>
-  <a href="https://www.centos.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/centos-colored.svg" width="36" height="36" alt="CentOS" /></a>
-  <a href="https://www.redhat.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redhat-colored.svg" width="36" height="36" alt="RHEL" /></a>
-  <a href="https://yaml.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/yaml-colored.svg" width="36" height="36" alt="YAML" /></a>
-  
-  <!-- Networking -->
-  <a href="https://en.wikipedia.org/wiki/Computer_network" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/network-colored.svg" width="36" height="36" alt="Networking" /></a>
-</p>
+
 
 <!---
 neurospicydev/neurospicydev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
